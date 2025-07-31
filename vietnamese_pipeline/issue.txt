@@ -1,0 +1,1 @@
+1_ Xây dựng pipeline xử lý văn bản tiếng Việt bao gồm tokenization, POS tagging, và xử lý dấu thanh điệu. Test với các câu mẫu.
