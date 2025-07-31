@@ -1,0 +1,1 @@
+2_ Phân tích sự khác biệt về cấu trúc ngữ pháp giữa tiếng Việt và ngôn ngữ ký hiệu. Xây dựng hệ thống chuyển đổi câu tiếng Việt sang cấu trúc ngôn ngữ ký hiệu.
